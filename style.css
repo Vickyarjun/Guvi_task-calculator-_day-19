@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Cinzel:wght@400;500;700&family=Josefin+Sans:wght@100;400&family=Redressed&display=swap');
+
+.text-center{
+    font-family: 'Cinzel', serif;
+    color:rgb(202, 9, 99);
+}
+.container{
+    background-color: rgb(184, 214, 187);
+    padding-bottom: 20px;
+    border:2px solid black;
+    border-radius: 10px;
+   
+}
+.row{
+    margin-left: 3%;
+    margin-right: 5%;
+    border-radius: 10px;
+}
+#del{
+    background-color:grey;
+    color:#fff;
+}
+.cut{
+    border:none;
+}
+.btn{
+    margin:5px;
+}
+
+.disp{
+    height: 3.5em;
+    width: 16em;
+    margin: 1em;
+    border: 0.3em solid rgb(101, 117, 103);
+    border-radius: 0.5em;
+}
+
